@@ -14,7 +14,7 @@
 	color: none;
 	background-color: transparent;
 	/*border: solid black 0.1px*/
-	border-bottom: solid black 1px;
+	border-bottom: solid rgb(229, 229, 229) 1px;
 }
 
 .container .jumbotron {
