@@ -52,3 +52,7 @@ a:hover {
 	color: teal;
 	text-decoration: none;
 }
+
+.info a:hover {
+	color: black;
+	}
