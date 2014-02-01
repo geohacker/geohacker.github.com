@@ -47,3 +47,8 @@ a:hover {
 .new a:hover {
 	color: black;
 	}
+
+.info a {
+	color: teal;
+	text-decoration: none;
+}
