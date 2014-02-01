@@ -1,0 +1,22 @@
+.bio {
+	font-size: 20px;
+	font-weight: 300;
+}
+.footer {
+	text-align: center;
+}
+
+.jumbotron p{
+	font-size: 40px;
+}
+
+.jumbotron {
+	color: none;
+	background-color: transparent;
+	/*border: solid black 0.1px*/
+	border-bottom: solid black 1px;
+}
+
+.container .jumbotron {
+	border-radius: 0px;
+}
