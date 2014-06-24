@@ -48,6 +48,12 @@ a:hover {
 	color: black;
 	}
 
+.old {
+	font-weight: 200;
+	font-size: 11px;
+	/*color: grey;*/
+}
+
 .info a {
 	color: teal;
 	text-decoration: none;
